@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def safe_print_list_integers(my_list=[], x=0):
-    """prints the first x elements of a list and only integers.
+    """Prints the first x elements of a list and only integers.
 
     Args:
         my_list (list): The list to print elements from.
