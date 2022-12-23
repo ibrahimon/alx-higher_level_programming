@@ -2,6 +2,7 @@
 
 """Define a class Square."""
 
+
 class Square:
     """Represent a square."""
 
@@ -18,5 +19,5 @@ class Square:
         self.__size = size
 
     def are(self):
-        """Returns the current square area"""
+        """Returns the current square area."""
         return (self.__size * self.__size)
